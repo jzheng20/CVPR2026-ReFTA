@@ -80,11 +80,11 @@ is numerically identical (to floating-point precision) to the explicit per-slice
 If you use this code, please cite the ReFTA paper:
 
 ```bibtex
-@inproceedings{refta,
+@inproceedings{zheng2026refta,
   title     = {Reconstruction-Free Tensor-Based Adaptation},
-  author    = {Zheng, Jingjing and others},
+  author    = {Zheng, Jingjing and Tang, Anda and Mao, Qiangqiang and Lin, Zhouchen and Cao, Yankai},
   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year      = {2026}
+  year      = {2026},
+  pages     = {26369--26378}
 }
 ```
-<!-- TODO: update author list / venue details to match the final paper. -->
